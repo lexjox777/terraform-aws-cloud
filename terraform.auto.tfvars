@@ -20,9 +20,9 @@ ami-web = "ami-0b0af3577fe5e3532"
 
 ami-bastion = "ami-0b0af3577fe5e3532"
 
-ami-nginx =  "ami-0b0af3577fe5e3532"
+ami-nginx = "ami-0b0af3577fe5e3532"
 
-ami-sonar =  "ami-0b0af3577fe5e3532"
+ami-sonar = "ami-0b0af3577fe5e3532"
 
 keypair = "devops"
 
