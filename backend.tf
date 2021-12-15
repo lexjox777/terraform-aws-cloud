@@ -9,11 +9,11 @@
 # }
 
 terraform {
-  backend "remote" {
+  cloud {
     organization = "pisitis"
 
     workspaces {
-      name = "terraform-aws-pbl-19"
+      name = "terraform-aws-cloud"
     }
   }
 }
