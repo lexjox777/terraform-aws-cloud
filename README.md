@@ -12,7 +12,10 @@ Cost, Security, and Scalability are the major requirements for this project. Hen
 
 The tooling code is stored in this [repository]((https://github.com/Lexjox777/tooling))
 
+
 Always refer to the given diagram
+
+![use case](https://github.com/lexjox777/terraform-aws-cloud/assets/79808404/f5ab21c9-0590-465c-9b3f-08f4b0ed5e63)
 
 
 
