@@ -1,8 +1,8 @@
-# terraform-aws-pbl-19
+# terraform-aws
 
 AWS Cloud Solution For 2 Company Websites Using A Reverse Proxy Technology
 
-**WARNING:** This infrastructure set up is NOT covered by AWS free tier. Therefore, ensure to DELETE  ALL the resources created immediately after finishing the project. Monthly cost may be shockingly high if resources are not deleted. Also, it is strongly recommended to set up a budget and configure notifications when your spendings reach a predefined limit. Watch this video to learn how to configure AWS budget.
+**WARNING:** This infrastructure set up is NOT covered by AWS free tier. Therefore, ensure to DELETE  ALL the resources created immediately after finishing the project. Monthly cost may be shockingly high if resources are not deleted. Also, it is strongly recommended to set up a budget and configure notifications when your spendings reach a predefined limit.
 
 The sole aim of this project to build the infrastructure in AWS using terraform.
 
@@ -10,11 +10,11 @@ We will build a secure infrastructure inside AWS VPC (Virtual Private Cloud) net
 
 Cost, Security, and Scalability are the major requirements for this project. Hence, implementing the architecture designed below, ensure that infrastructure for both websites, WordPress and Tooling, is resilient to Web Server's failures, can accomodate to increased traffic and, at the same time, has reasonable cost.
 
-The tooling code is stored in this [repository]((https://github.com/Livingstone95/tooling))
+The tooling code is stored in this [repository]((https://github.com/Lexjox777/tooling))
 
 Always refer to the given diagram
 
-![project image](./tooling_project_15.png)
+
 
 
 
@@ -29,7 +29,7 @@ sudo apt install graphviz
 https://www.terraform.io/docs/cli/commands/graph.html
 
 
-### Action Plan for project 19
+### Action Plan
 
 - Build images using packer
 - confirm the AMIs in the console
